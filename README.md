@@ -8,6 +8,7 @@
   <a href="https://github.com/Joao-A17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-A17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-A17&layout=compact&langs_count=7&theme=synthwave"/>-->
+  <img align="right" alt="Joao-A17" src="https://i.pinimg.com/originals/5b/30/c6/5b30c680faa6a9b0b1c8a7ce3fd73b62.gif">
 </div>
  <div style="display: inline_block"><br>
   <!-- <img align="center" alt="Joao-A17-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,11 +16,8 @@
   <img align="center" alt="Joao-A17-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-A17-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-A17-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-A17-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  <!-- gif para mudar <img align="right" alt="Joao-A17" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
+  <img align="center" alt="Joao-A17-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-##
   
 <div>
   <a href="https://instagram.com/joao_vic2k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
