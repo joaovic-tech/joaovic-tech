@@ -10,8 +10,6 @@
   <img align="left" alt="Joao-A17" height="300" width="300" src="https://i.pinimg.com/originals/5b/30/c6/5b30c680faa6a9b0b1c8a7ce3fd73b62.gif">
 </div>
  <div style="display: inline_block"><br>
-  <!-- <img align="center" alt="Joao-A17-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Joao-A17-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Joao-A17-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-A17-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-A17-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
