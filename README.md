@@ -1,4 +1,4 @@
-✨ OII!! aqui é o João 🔥🔥
+🔥 Hello World!! aqui é o João <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 📚 Eu estou aprendendo recentemente HTML, CSS, JavaScript && Python ...
 - 🎒𝑆𝑇𝑈𝐷𝑌𝐼𝑁𝐺 💻<𝑃𝑅𝛩𝐺𝑅𝛬𝛭𝛭𝐼𝑁𝐺/> 🔥𝜩𝐷𝐼𝑇𝐼𝑁𝐺
@@ -15,13 +15,22 @@
   <img align="center" alt="Joao-A17-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-A17-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-A17-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-A17-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Joao-A17-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
-<div>
+<div><br>
   <a href="https://instagram.com/joao_vic2k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovictorca2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   <!--[Snake animation](https://github.com/Joao-A17/Joao-A17/blob/output/github-contribution-grid-snake.svg)-->
+  
+  <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Joao-A17/count.svg" />
+ </p>
+ ## 🤑🔥 Tenho Hype 🔥🤑
+</p>
   
 </div>
