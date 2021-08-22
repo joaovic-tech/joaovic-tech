@@ -30,7 +30,7 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Joao-A17/count.svg" />
  </p>
- ## 🤑🔥 Tenho Hype 🔥🤑
+ ## 🤑� Hype �🤑
 </p>
   
 </div>
