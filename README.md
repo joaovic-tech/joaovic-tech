@@ -2,7 +2,6 @@
 
 - 📚 Eu estou aprendendo recentemente HTML, CSS, JavaScript && Python ...
 - 🎒𝑆𝑇𝑈𝐷𝑌𝐼𝑁𝐺 💻<𝑃𝑅𝛩𝐺𝑅𝛬𝛭𝛭𝐼𝑁𝐺/> 🔥𝜩𝐷𝐼𝑇𝐼𝑁𝐺
-- 🐛 Aprendendo a caçar bugs ou falhas de sistemas ...
 
 <div>
   <a href="https://github.com/Joao-KMA">
