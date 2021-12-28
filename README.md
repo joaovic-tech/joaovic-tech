@@ -26,7 +26,7 @@
   <a href="https://instagram.com/joaovic_css" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovictorca2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-victor-carvalho-alves-790116213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/joaovic2k/joaovic2k/blob/output/github-contribution-grid-snake.svg)
+  <!--[Snake animation](https://github.com/joaovic2k/joaovic2k/blob/output/github-contribution-grid-snake.svg)-->
   
   <p align="center"> 
 
