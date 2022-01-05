@@ -1,6 +1,6 @@
 <h1>🔥 Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1> 
 
-- 📚 Aprendendo cada vez mais ...
+- 📚 Estudando para ser desevolvedor Full Stack
 - 👨‍🎓Técnico de Informática 
 - 🎒STUDYING 
 - 💻 PROGRAMMING
@@ -14,18 +14,17 @@
 </div>   
 <br>
 <div>
-  <h1>Linguagem mais usada</h1>
+  <h1>Linguagens mais usadas</h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 <div>
-  <a href="https://github.com/joaovic2k">
   <img align="right" alt="joaovic2k" height="300" width="320" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <div>
   <h1>Contato =></h1>
   <a href="https://instagram.com/joaovic2k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovictorca2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-victor-carvalho-alves-790116213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <br>
+<br>
   <img src="https://github.com/joaovic2k/joaovic2k/blob/output/github-contribution-grid-snake.svg">
 </div>
