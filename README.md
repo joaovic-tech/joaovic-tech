@@ -17,8 +17,8 @@
 <br>
 <div>
   <h1>Linguagens mais usadas</h1>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 <div>
   <img align="right" alt="joaovic2k" height="300" width="320" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif">
