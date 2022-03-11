@@ -1,6 +1,6 @@
 <h1>⚡ Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1> 
 
-- 📚 Estudando para ser desevolvedor Full Stack
+- 📚 Estudando Engenharia De Software
 - 👨‍🎓Técnico de Informática 
 - 🎒STUDYING 
 - 💻 PROGRAMMING
