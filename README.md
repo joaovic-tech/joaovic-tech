@@ -1,5 +1,4 @@
-<h1>⚡ Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1> 
-<img src"">
+## ⚡ Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
