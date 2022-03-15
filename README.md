@@ -1,8 +1,8 @@
 ## ⚡ Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <div align="center">
   <a href="https://github.com/joaovic2k">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <div display"inline_block"><br>
     <img align="center" alt="joaovic2k-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
