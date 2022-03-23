@@ -1,7 +1,7 @@
 ## ⚡ Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <img align="right" alt="joaovic2k-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79641024?v=4">
 <div align="center">
-  <a href="https://github.com/joaovic2k">
+  <a href="https://www.instagram.com/joaovic2k_">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaovic2k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img alt="joaovic2ks Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joaovic2k&custom_title=joaovic2k%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true" />
