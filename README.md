@@ -10,13 +10,13 @@
 <div align="center"><br>
   <h1>Tecnologias utulizadas:</h1>
   
-  ![HTML](./img/html.svg) &nbsp;
-  ![CSS](./img/css.svg) &nbsp;
-  ![JS](./img/js.svg) &nbsp;
-  ![Figma](./img/nodejs.svg) &nbsp;
-  ![Git](./img/git.svg) &nbsp;
-  ![VSCode](./img/vscode.svg) &nbsp;
-  ![Figma](./img/figma.svg) &nbsp;
+  ![HTML](./svgs/html.svg) &nbsp;
+  ![CSS](./svgs/css.svg) &nbsp;
+  ![JS](./svgs/js.svg) &nbsp;
+  ![Figma](./svgs/nodejs.svg) &nbsp;
+  ![Git](./svgs/git.svg) &nbsp;
+  ![VSCode](./svgs/vscode.svg) &nbsp;
+  ![Figma](./svgs/figma.svg) &nbsp;
   
 </div>
   
