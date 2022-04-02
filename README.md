@@ -1,6 +1,6 @@
 # ⚡ Hello World!! aqui é o <a href="https://github.com/joaovic2k">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 👨‍💻 Software Engineer
 <hr>
-<img align="right" alt="joaovic2k-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79641024?v=4">
+<img align="right" alt="joaovic2k-pic" height="150" style="border-radius:50px;" src="./meu_cartoon.png">
 <div align="center">
   <a href="https://www.instagram.com/code_dev2k">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic2k&layout=compact&langs_count=7&theme=midnight-purple"/>
