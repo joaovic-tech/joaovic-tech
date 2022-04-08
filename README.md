@@ -1,4 +1,4 @@
-# ⚡ Hello World!! aqui é o <a href="https://github.com/joaovic-tech">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 👨‍💻 Software Engineer
+# ⚡ Hello World!! aqui é o <a href="https://github.com/joaovic-tech">João</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 👨‍💻 Frontend Developer || JavaScript
 <hr>
 <img align="right" alt="joaovic-tech-pic" height="150" style="border-radius:50px;" src="./meu_cartoon.png">
 <div align="center">
