@@ -8,8 +8,8 @@
   }
 ```
 
-- 👨🏻‍💻 | Software Engineering Student
-- 🛠️ | Tools: <br>
+- <h2> 👨🏻‍💻 | Software Engineering Student </h2>
+- <h2> 🛠️ | Tools: </h2> 
 <div>
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg" height="50"/> 
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg" height="50"/> 
@@ -20,15 +20,16 @@
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/terminal.svg" height="50"/>
 </div>
 
-- 💻 | My [portfolio](https://joaovictor-portfolio.vercel.app/)
-- ⚡ | Hard Skills: <br>
+- <h2> 💻 | My [portfolio](https://joaovictor-portfolio.vercel.app/) </h2>
+- <h2> ⚡ | Hard Skills: </h2>
 <div>
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg" height="50"/> 
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg" height="50"/> 
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg" height="50"/> 
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg" height="50"/>
 </div>
-- 📚 | Technologies I'm studying <br>
+
+- <h2> 📚 | Technologies I'm studying </h2> <br>
 <div>
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg" height="50"/> 
   <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg" height="50"/> 
