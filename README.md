@@ -1,14 +1,39 @@
-<img align="right" alt="joaovic-tech-pic" height="150" style="border-radius:50px;" src="./meu_cartoon.png" />
-<h1 align="left">Hello World!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Victor</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=joaovic-tech&color=blue" alt="Profile views"/></p>
+<img align="right" alt="joaovic-tech-pic" height="250" style="border-radius:50px;" src="./meu_cartoon.png" /> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joaovic-tech&color=blue" alt="Profile views"/></p>
+<h3 align="left">Hello World!! 🌎 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, My name is João Victor and I'm a Front-End Developer</h3>
 
-- 👨🏻‍💻 | Frontend Developer
+```js
+  while(true){
+    I.Love(You)
+  }
+```
 
-- ☕ | JavaScript web developer and software engineering student 
+- 👨🏻‍💻 | Software Engineering Student
+- 🛠️ | Tools: <br>
+<div>
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg" height="50"/>
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/github.svg" height="50"/>
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/bootstrap.svg" height="50"/>
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/terminal.svg" height="50"/>
+</div>
 
-- 💻 | this is my portfolio [portfolio](https://joaovictor-portfolio.vercel.app/)
-
-- ⚡ | Developer in **HTML, CSS, JavaScript, , Node.JS, SQL, Git**
+- 💻 | My [portfolio](https://joaovictor-portfolio.vercel.app/)
+- ⚡ | Hard Skills: <br>
+<div>
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg" height="50"/>
+</div>
+- 📚 | Technologies I'm studying <br>
+<div>
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg" height="50"/> 
+  <img src="https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg" height="50"/> 
+</div>
 <hr>
 <div align="center"> 
   <h1 align="center">💜 Connect with me</h1>
@@ -25,7 +50,7 @@
   <h1>My technologies ⚛</h1>
   
   &mdash;
-  ![HTML](./svgs/html.svg) &mdash;
+  ![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg) &mdash;
   ![CSS](./svgs/css.svg) &mdash;
   ![JS](./svgs/js.svg) &mdash;
   ![Figma](./svgs/nodejs.svg) &mdash;
