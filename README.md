@@ -53,7 +53,7 @@
 <div align="center">
   <a href="https://www.instagram.com/joaovic.tech">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&theme=midnight-purple&include_alcolor_commits=true&count_private=true"/>
   </a>
 </div>
 <br><br>
