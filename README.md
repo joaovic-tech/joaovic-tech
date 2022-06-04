@@ -1,12 +1,16 @@
-<img align="left" title="joaovic-tech-pic" height="220" src="./meu_cartoon.png" /> 
+<img align="right" title="joaovic-tech-pic" height="220" src="./meu_cartoon.png" /> 
 
 ![](https://komarev.com/ghpvc/?username=joaovic-tech&color=blueviolet)
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
 
-<h3>Hello World!! 🌎 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, My name is João Victor and I'm a Front-End Developer</h3>
-<h4> 👨🏻‍💻 Software Engineering Student </h4>
-<h4> 💻 My <a href="https://joaovictor-portfolio.vercel.app/">portfolio</a> </h4><br><br>
+#### 👨🏻‍💻 Software Engineer
+#### ⚡ JavaScript | TypeScript | React
+#### [🚀 My portfolio](https://joaovictor-portfolio.vercel.app/) 
+#### [💻 Connect with me](#contact)
+<br><br>
+
+Hello world🌎 my name is **João Victor** and I am a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**.
 
 <hr>
 
@@ -28,41 +32,40 @@
     </p>
 </div>
 <br><br>
+
+```js
+// my life cycle
+function codeLife() {
+    while(alive) {
+        eat();
+        // sleep();
+        code();
+    }
+}
+```
 <hr>
-<div align="center"> 
-  <h1 align="center">Connect with me</h1>
-  
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&color=blueviolet&&logo=twitter&logoColor=white"/>](https://twitter.com/joaovic_tech)
-  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&color=blueviolet&&logo=github&logoColor=white" />](https://github.com/joaovic_tech)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&color=blueviolet&&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaovic_tech/) 
-  [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&color=blueviolet&&logo=instagram&logoColor=white">](https://www.instagram.com/joaovic_tech/) 
-  [<img src = "https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&color=blueviolet&logo=gmail&logoColor=white">](mailto:joaovictorca2004@gmail.com) 
+<div align="center" id="contact"> 
+    
+  ### Connect with me
+    
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&color=blueviolet&&logo=twitter&logoColor=white"/>][1] 
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&color=blueviolet&&logo=github&logoColor=white" />][2]
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&color=blueviolet&&logo=linkedin&logoColor=white" />][3]
+  [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&color=blueviolet&&logo=instagram&logoColor=white">][4]
+  [<img src = "https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&color=blueviolet&logo=gmail&logoColor=white">][5]
+    
+  [1]: https://twitter.com/joaovic_tech "Twitter"
+  [2]: https://github.com/joaovic_tech "GitHub"
+  [3]: https://www.linkedin.com/in/joaovic_tech/ "LinkedIn"
+  [4]: https://www.instagram.com/joaovic_tech/ "Instagram"
+  [5]: mailto:joaovictorca2004@gmail.com "Gmail"
   
 </div>
 <hr>
 
 <div align="center">
 
-### ⚡ Hard Skills: 
-
-![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg)
-![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg)
-![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg)
-    
-</div>
-
-<div align="center">
-
-### 📚 Studying:
- 
-![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg)
-![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg)
-![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
-    
-</div>
-<div align="center">
-
-### 🛠️ Tools
+### 🛠️ most used technology
 
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg)
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg)
@@ -79,7 +82,7 @@
 ![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
     
 </div>
-<br><br>
+
 <hr>
 
 ![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
