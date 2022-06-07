@@ -10,8 +10,7 @@
 #### [💻 Connect with me](#contact)
 <br><br>
 
-Hello world🌎 my name is **João Victor** and I am a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**.
-
+### Hello world🌎 my name is **João Victor** and I am a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**.
 <hr>
 
 <div align="center">
@@ -33,17 +32,6 @@ Hello world🌎 my name is **João Victor** and I am a **software engineering st
 </div>
 <br><br>
 
-```js
-// my life cycle
-function codeLife() {
-    while(alive) {
-        eat();
-        // sleep();
-        code();
-    }
-}
-```
-<hr>
 <div align="center" id="contact"> 
     
   ### Connect with me
@@ -61,8 +49,20 @@ function codeLife() {
   [5]: mailto:joaovictorca2004@gmail.com "Gmail"
   
 </div>
-<hr>
 
+![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
+
+```js
+// my life cycle
+function codeLife() {
+    while(alive) {
+        eat();
+        // sleep();
+        code();
+    }
+}
+```
+<hr>
 <div align="center">
 
 ### 🛠️ Tools
@@ -80,7 +80,4 @@ function codeLife() {
 ![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
     
 </div>
-
 <hr>
-
-![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
