@@ -1,4 +1,4 @@
-<img align="right" title="joaovic-tech-pic" height="220" src="./meu_cartoon.png" /> 
+<img align="right" title="joaovic-tech-pic" height="220" src="https://user-images.githubusercontent.com/81701584/143141485-754fa361-85f4-41f3-801a-845fb9bf0afc.png" /> 
 
 ![](https://komarev.com/ghpvc/?username=joaovic-tech&color=blueviolet)
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
