@@ -65,15 +65,13 @@ function codeLife() {
 
 <div align="center">
 
-### 🛠️ most used technology
+### 🛠️ Tools
 
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg)
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg)
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg)
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg)
 ![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/github.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/bootstrap.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/terminal.svg)
 ![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg)
 ![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg)
 ![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg)
