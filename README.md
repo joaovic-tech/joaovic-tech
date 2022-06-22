@@ -51,17 +51,6 @@
 </div>
 
 ![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
-
-```js
-// my life cycle
-function codeLife() {
-    while(alive) {
-        eat();
-        // sleep();
-        code();
-    }
-}
-```
 <hr>
 <div align="center">
 
