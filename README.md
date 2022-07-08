@@ -20,7 +20,7 @@
 
 ![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg)
 ![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg)
-![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/jquery.svg)
+![jQuery](https://github.com/joaovic-tech/icons/blob/main/svgs/jquery.svg)
 ![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg)
 ![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
 ![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg)
