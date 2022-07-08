@@ -18,7 +18,7 @@
 
 ### 📚 My skills
 
-![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg)
+![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/javascript.svg)
 ![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg)
 ![jQuery](https://github.com/joaovic-tech/icons/blob/main/svgs/jquery.svg)
 ![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg)
