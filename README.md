@@ -4,14 +4,38 @@
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
 
-#### 👨🏻‍💻 Software Engineer
-#### ⚡ JavaScript | TypeScript | React
-#### [🚀 My portfolio](https://joaovictor-portfolio.vercel.app/) 
-#### [💻 Connect with me](#contact)
+- 😎 João Victor, 18 years
+- 👨🏻‍💻 Software Engineer
+- ⚡ JavaScript | TypeScript | React
+- [🚀 My portfolio](https://joaovictor-portfolio.vercel.app/) 
+- [💻 Connect with me](#contact)
 <br><br>
 
 ### Hello world🌎 my name is **João Victor** and I am a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**.
 <hr>
+
+<div align="center">
+
+### 📚 My skills
+
+![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg)
+![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg)
+![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/jquery.svg)
+![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg)
+![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
+![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg)
+![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg)
+![tailwindcss](https://github.com/joaovic-tech/icons/blob/main/svgs/tailwindcss.svg)
+![postgresql](https://github.com/joaovic-tech/icons/blob/main/svgs/postgresql.svg)
+![mysql](https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg)
+![git](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg)
+![npm](https://github.com/joaovic-tech/icons/blob/main/svgs/npm.svg)
+![photoshop](https://github.com/joaovic-tech/icons/blob/main/svgs/photoshop.svg)
+![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg)
+![notion](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg)
+![vscode](https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg)
+    
+</div>
 
 <div align="center">
     <p>        
@@ -51,22 +75,4 @@
 </div>
 
 ![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
-<hr>
-<div align="center">
-
-### 🛠️ Tools
-
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/github.svg)
-![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg)
-![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg)
-![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/js.svg)
-![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg)
-![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg)
-![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
-    
-</div>
 <hr>
