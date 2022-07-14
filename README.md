@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8338ec&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor;I'm+18+years+old;I+from+Brasil,+SC;I+study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8338ec&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+My+Name+is+João+Victor;I'm+18+years+old;I+from+Brazil,+SC;I+study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img align="right" title="joaovic-tech-pic" height="220" src="meu_cartoon.png" /> 
 
