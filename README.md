@@ -1,41 +1,23 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8338ec&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor;I'm+18+years+old;I+from+Brasil,+SC;I+study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <img align="right" title="joaovic-tech-pic" height="220" src="meu_cartoon.png" /> 
 
 ![](https://komarev.com/ghpvc/?username=joaovic-tech&color=blueviolet)
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
+![](https://joaovictor-portfolio.vercel.app/)
 
-- 😎 João Victor, 18 years
-- 👨🏻‍💻 Software Engineer
-- ⚡ JavaScript | TypeScript | React
-- [🚀 My portfolio](https://joaovictor-portfolio.vercel.app/) 
-- [💻 Connect with me](#contact)
+```diff
+diff - 😎 João Victor 
+@@ ☕ SoftWare Engineer @@
+! I'm 18 years old
++ ⚡ JavaScript && TypeScript && React
+```
+
 <br><br>
 
-### Hello world🌎 my name is **João Victor** and I am a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**.
+### Hello world🌎 my name is **João Victor** and I am a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**. [🚀 Visit my portfolio](https://joaovictor-portfolio.vercel.app/) 
 <hr>
-
-<div align="center">
-
-### 📚 My skills
-
-![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/javascript.svg)
-![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg)
-![jQuery](https://github.com/joaovic-tech/icons/blob/main/svgs/jquery.svg)
-![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg)
-![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg)
-![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg)
-![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg)
-![tailwindcss](https://github.com/joaovic-tech/icons/blob/main/svgs/tailwindcss.svg)
-![postgresql](https://github.com/joaovic-tech/icons/blob/main/svgs/postgresql.svg)
-![mysql](https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg)
-![git](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg)
-![npm](https://github.com/joaovic-tech/icons/blob/main/svgs/npm.svg)
-![photoshop](https://github.com/joaovic-tech/icons/blob/main/svgs/photoshop.svg)
-![figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg)
-![notion](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg)
-![vscode](https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg)
-    
-</div>
 
 <div align="center">
     <p>        
@@ -52,9 +34,34 @@
         <a href="https://github.com/joaovic-tech">
             <img alt="Mari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" align="right" width="400px" />
         </a>
-    </p>
+    </p>  
 </div>
 <br><br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=joaovic-tech&custom_title=joaovic-tech%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true)
+
+### Main skills:
+
+![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/javascript.svg "JavaScript")
+![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg "TypeScript")
+![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg "React")
+
+### Other Knowledge:
+![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg "NodeJS")
+![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg "HTML")
+![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg "CSS")
+![Tailwindcss](https://github.com/joaovic-tech/icons/blob/main/svgs/tailwindcss.svg "Tailwindcss")
+![Postgresql](https://github.com/joaovic-tech/icons/blob/main/svgs/postgresql.svg "Postgresql")
+![Mysql](https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg "Mysql")
+
+### Tools:
+![Git](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg "GIT")
+![GitHub](https://github.com/joaovic-tech/icons/blob/main/svgs/github.svg "GitHub")
+![NPM](https://github.com/joaovic-tech/icons/blob/main/svgs/npm.svg "NPM")
+![Photoshop](https://github.com/joaovic-tech/icons/blob/main/svgs/photoshop.svg "Photoshop")
+![Figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg "Figma")
+![Notion](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg "Notion")
+![vs-code](https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg "vs-code")
 
 <div align="center" id="contact"> 
     
