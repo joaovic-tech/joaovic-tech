@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8338ec&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+My+Name+is+João+Victor;I'm+18+years+old;I+from+Brazil,+SC;I+study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="right" title="joaovic-tech-pic" height="220" src="meu_cartoon.png" /> 
+<img align="right" title="computer-illustration" height="220" src="computer-illustration.png" /> 
 
 ![](https://komarev.com/ghpvc/?username=joaovic-tech&color=blueviolet)
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
 ![](https://joaovictor-portfolio.vercel.app/)
 
-```diff
-diff - 😎 João Victor 
-@@ ☕ SoftWare Engineer @@
-! I'm 18 years old
-+ ⚡ JavaScript && TypeScript && React
-```
+
+> * 👨‍💻 João Victor 
+> * ☕ SoftWare Engineer
+> * 😎 I'm 18 years old
+> * ⚡ JavaScript && TypeScript && React
+
 
 <br><br>
 
@@ -38,26 +38,25 @@ diff - 😎 João Victor
 </div>
 <br><br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=joaovic-tech&custom_title=joaovic-tech%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true)
+<!--- ![Contribution](https://activity-graph.herokuapp.com/graph?username=joaovic-tech&custom_title=joaovic-tech%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true) --->
 
 ### Most used tools and technologies:
 
-![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/javascript.svg "JavaScript")
-![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg "TypeScript")
-![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg "React")
-![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg "NodeJS")
-![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg "HTML")
-![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg "CSS")
-![Tailwindcss](https://github.com/joaovic-tech/icons/blob/main/svgs/tailwindcss.svg "Tailwindcss")
-![Postgresql](https://github.com/joaovic-tech/icons/blob/main/svgs/postgresql.svg "Postgresql")
-![Mysql](https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg "Mysql")
-![Git](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg "GIT")
-![GitHub](https://github.com/joaovic-tech/icons/blob/main/svgs/github.svg "GitHub")
-![NPM](https://github.com/joaovic-tech/icons/blob/main/svgs/npm.svg "NPM")
-![Photoshop](https://github.com/joaovic-tech/icons/blob/main/svgs/photoshop.svg "Photoshop")
-![Figma](https://github.com/joaovic-tech/icons/blob/main/svgs/figma.svg "Figma")
-![Notion](https://github.com/joaovic-tech/icons/blob/main/svgs/notion.svg "Notion")
-![vs-code](https://github.com/joaovic-tech/icons/blob/main/svgs/vscode.svg "vs-code")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
+![Postgresql](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181616?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-00000F?style=for-the-badge&logo=notion&logoColor=white)
+![vs-code](https://img.shields.io/badge/VSCode-3c99d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <div align="center" id="contact"> 
     
