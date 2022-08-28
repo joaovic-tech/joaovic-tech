@@ -40,21 +40,17 @@ diff - 😎 João Victor
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=joaovic-tech&custom_title=joaovic-tech%27s%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true)
 
-### Main skills:
+### Most used tools and technologies:
 
 ![JavaScript](https://github.com/joaovic-tech/icons/blob/main/svgs/javascript.svg "JavaScript")
 ![TypeScript](https://github.com/joaovic-tech/icons/blob/main/svgs/typescript.svg "TypeScript")
 ![React](https://github.com/joaovic-tech/icons/blob/main/svgs/react.svg "React")
-
-### Other Knowledge:
 ![NodeJS](https://github.com/joaovic-tech/icons/blob/main/svgs/nodejs.svg "NodeJS")
 ![HTML](https://github.com/joaovic-tech/icons/blob/main/svgs/html.svg "HTML")
 ![CSS](https://github.com/joaovic-tech/icons/blob/main/svgs/css.svg "CSS")
 ![Tailwindcss](https://github.com/joaovic-tech/icons/blob/main/svgs/tailwindcss.svg "Tailwindcss")
 ![Postgresql](https://github.com/joaovic-tech/icons/blob/main/svgs/postgresql.svg "Postgresql")
 ![Mysql](https://github.com/joaovic-tech/icons/blob/main/svgs/mysql.svg "Mysql")
-
-### Tools:
 ![Git](https://github.com/joaovic-tech/icons/blob/main/svgs/git.svg "GIT")
 ![GitHub](https://github.com/joaovic-tech/icons/blob/main/svgs/github.svg "GitHub")
 ![NPM](https://github.com/joaovic-tech/icons/blob/main/svgs/npm.svg "NPM")
