@@ -16,7 +16,7 @@
 
 <br><br>
 
-### Hello world🌎 my name is **João Victor** I'm a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript**, **TypeScript** and **React**. [🚀 Visit my portfolio](https://joaovictor-portfolio.vercel.app/) 
+### Hello world🌎 my name is **João Victor** I'm a **software engineering student**, every day I try to learn the best **web** and **mobile** development technologies to be a great professional as a **Software Engineer**. My main languages are **Javascript/TypeScript**. [🚀 Visit my portfolio](https://joaovictor-portfolio.vercel.app/) 
 <hr>
 
 <div align="center">
