@@ -22,17 +22,17 @@
 <div align="center">
     <p>        
       <a href="https://github.com/joaovic-tech">                   
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovic-tech&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovic-tech&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
       </a>
     </p>
     <p>
         <!--Stats-->
         <a href="https://github.com/joaovic-tech">
-            <img alt="Mari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" />
+            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" />
         </a>
         <!--Languages-->
         <a href="https://github.com/joaovic-tech">
-            <img alt="Mari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" align="right" width="400px" />
+            <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" align="right" width="400px" />
         </a>
     </p>  
 </div>
