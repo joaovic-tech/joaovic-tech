@@ -21,8 +21,8 @@ Porque se não houver disciplina, o que mais pode te levar ao sucesso?
 ```
 
 
-<img align="right" title="🔥 This is my status huehue" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovic-tech&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
-<img width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img align="right" width="400" title="🔥 This is my status huehue" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovic-tech&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
+<img align="left" width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 
 
