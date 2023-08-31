@@ -11,8 +11,8 @@
 ```ts
 const name: string = "👨‍💻 João Victor ";
 const age: number = 19;
-const pro: string = "☕ SoftWare Engineer (studying...)";
-const skills: string = "⚡ JavaScript && TypeScript && React";
+const pro: string = "🌐 SoftWare Engineer (studying...)";
+const skills: Array<string> = ['TypeScript', 'React', 'NodeJS'];
 ```
 
 ```diff
