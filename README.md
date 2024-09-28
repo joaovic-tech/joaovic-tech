@@ -20,17 +20,15 @@ Disciplina é a chave para alcançar objetivos extraordinários...
 Porque se não houver disciplina, o que mais pode te levar ao sucesso?
 ```
 
+![Github status](https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117)
+![Github status](https://github-readme-streak-stats.herokuapp.com?user=joaovic-tech&theme=midnight-purple&hide_border=true&locale=pt_BR&background=0D1117)
+![Wakatime status](https://github-readme-stats.vercel.app/api/wakatime?username=joaovic_tech\&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117)
 
-<img align="right" width="400" title="🔥 This is my status huehue" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovic-tech&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
-<img align="left" width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-
-
+---
 
 ![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
