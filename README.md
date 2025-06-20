@@ -10,7 +10,7 @@
 
 ```ts
 const name: string = "👨‍💻 João Victor ";
-const age: number = 20;
+const age: number = 21;
 const pro: string = "🌐 SoftWare Engineer (studying...)";
 const skills: Array<string> = ['TypeScript', 'React', 'NodeJS'];
 ```
