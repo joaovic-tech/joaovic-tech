@@ -6,18 +6,21 @@
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
 ![](https://joaovictor-portfolio.vercel.app/)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=joaovictorca2004)
 
-```ts
-const name: string = "👨‍💻 João Victor ";
-const age: number = 21;
-const pro: string = "🌐 SoftWare Engineer (studying...)";
-const skills: Array<string> = ['TypeScript', 'React', 'NodeJS', 'Python', 'Java', 'PHP'];
+```java
+private static final String name = "👨‍💻 João Victor ";
+private static final int age = 21;
+private static final String pro = "🌐 SoftWare Engineer (studying...)";
+List<String> skills = new ArrayList<>(Arrays.asList("TypeScript", "React", "NodeJS", "Python", "Java", "PHP"));
 ```
 
 <div align="center">
   
 ![Github status](https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000)
+<!--<img align="right" title="computer-illustration" height="220" src="https://codeforces-readme-stats.vercel.app/api/card?username=joaovictorca2004" /> -->
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=joaovictorca2004&theme=midnight-purple&hide_border=true&bg_color=00000000)](https://codeforces.com/profile/joaovictorca2004)
 
 </div>
 
