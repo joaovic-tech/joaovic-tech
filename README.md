@@ -6,7 +6,6 @@
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
 ![](https://joaovictor-portfolio.vercel.app/)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=joaovictorca2004)
 
 ```java
 private static final String name = "👨‍💻 João Victor ";
