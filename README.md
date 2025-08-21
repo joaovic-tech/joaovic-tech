@@ -6,6 +6,7 @@
 ![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
 ![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
 ![](https://joaovictor-portfolio.vercel.app/)
+[![wakatime](https://wakatime.com/badge/user/3d37a9c1-52c7-40ba-a685-4895044c58fa.svg)](https://wakatime.com/@3d37a9c1-52c7-40ba-a685-4895044c58fa)
 
 ```java
 private static final String name = "👨‍💻 João Victor ";
