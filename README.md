@@ -15,18 +15,18 @@ private static final String pro = "🌐 SoftWare Engineer (studying...)";
 List<String> skills = new ArrayList<>(Arrays.asList("TypeScript", "React", "NodeJS", "Python", "Java", "PHP"));
 ```
 
-<div align="center">
+<div align="left">
   
-![Github status](https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000)
-<!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=joaovictorca2004&theme=midnight-purple&hide_border=true&bg_color=00000000)](https://codeforces.com/profile/joaovictorca2004) -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/joaovic-tech?ext=activity&theme=transparent)
+![Github status](https://github-readme-stats.vercel.app/api?username=joaovic-tech&show_icons=true&count_private=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovic-tech&langs_count=8&count_private=true&layout=compact&hide_border=true&theme=transparent)
+![LeetCode Stats](https://leetcard.jacoblin.cool/joaovic-tech?ext=contest)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=joaovictorca2004&hide_border=true)](https://codeforces.com/profile/joaovictorca2004)
 
 </div>
 
 ---
 
-![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg)
+<!--- ![Snake animation](https://github.com/joaovic-tech/joaovic-tech/blob/output/github-contribution-grid-snake.svg) -->
 
 ```diff
 Disciplina é a chave para alcançar objetivos extraordinários...
