@@ -1,9 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=600&pause=400&color=FF007F&background=00FFFF00&center=true&vCenter=true&width=435&lines=Arch+Linux+User;22+years;Caba+da+peste;I+FROM+BRAZIL)](https://git.io/typing-svg)
+![https://git.io/typing-svg"](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=600&pause=400&color=FF007F&background=00FFFF00&center=true&vCenter=center&width=1000&lines=Arch+Linux+User;22+years;Caba+da+peste;I+FROM+BRAZIL)
 
-![](https://komarev.com/ghpvc/?username=joaovic-tech&color=blueviolet)
-![](https://badges.pufler.dev/repos/joaovic-tech?color=blueviolet)
-![](https://badges.pufler.dev/commits/monthly/joaovic-tech?color=blueviolet)
-![](https://joaovictor-portfolio.vercel.app/)
 [![wakatime](https://wakatime.com/badge/user/3d37a9c1-52c7-40ba-a685-4895044c58fa.svg)](https://wakatime.com/@3d37a9c1-52c7-40ba-a685-4895044c58fa)
 
 ```bash
